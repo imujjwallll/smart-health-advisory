@@ -18,3 +18,21 @@
     "eject": "react-scripts eject"
   }
 }
+# Smart Health Advisory System
+
+This is a React web application for a Smart Health Advisory System, including a symptom checker, health tips, and health tracker.
+
+## Features
+
+- Symptom Checker with basic advice
+- Health Tips categorized by Diet, Fitness, and Mental Health
+- Health Tracker to record weight and sleep hours locally
+- Responsive and clean UI using Tailwind CSS
+
+## Setup & Run
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/yourusername/smart-health-advisory.git
+   cd smart-health-advisory
+
